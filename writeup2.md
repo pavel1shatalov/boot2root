@@ -85,7 +85,7 @@ $ cat /etc/*-release
 Ubuntu, 12.04
 ```
 
-In order to explit it we search this [website](www.exploit-db.com) and find the [next variant](https://www.exploit-db.com/exploits/40839)
+In order to exploit the system we search this [website](www.exploit-db.com) and find the [next solution](https://www.exploit-db.com/exploits/40839)
 
 This exploit uses the dirtycow vulnerability, which is a computer security vulnerability for the Linux kernel that affected all Linux-based operating systems, including Android devices, that used older versions of the Linux kernel created before 2018. It is a local privilege escalation bug that exploits a race condition in the implementation of the copy-on-write mechanism in the kernel's memory-management subsystem. Computers and devices that still use the older kernels remain vulnerable.
 
