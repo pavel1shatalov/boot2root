@@ -1,4 +1,4 @@
-# Writeup 1
+# Writeup 2
 
 First we need to find the IP address of Virtual machine.
 
