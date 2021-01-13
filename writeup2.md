@@ -43,7 +43,7 @@ $ ls /home/lmezard
 fun  README
 ```
 
-fun is an archive, then:
+fun is an archive, unarchive then:
 
 ``` bash
 $ tar xvf fun ; ls
