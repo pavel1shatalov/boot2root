@@ -198,13 +198,13 @@ Compile the file
 ``` bash
 $ gcc -pthread dirty.c -o dirty -lcrypt
 ```
-
+Run the script with your new password
 ``` bash
 $ ./dirty <my-new-password>
 ```
-
+Log in to the root user named firefart
 ``` bash
 $ su firefart
 ```
 
-Enter <my-new-password>
+Enter your new password
